@@ -1,0 +1,23 @@
+{
+  "name": "exampractice",
+  "version": "1.0.0",
+  "description": "This repository only for practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaibhavW112/ExamPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaibhavW112/ExamPractice/issues"
+  },
+  "homepage": "https://github.com/VaibhavW112/ExamPractice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
