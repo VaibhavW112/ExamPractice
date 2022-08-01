@@ -12,6 +12,9 @@ app.get("/", (req, res) => {
         + "<li> Laptops </li>"
         + "<li> Mobile Phone </li>"
         + "<li> Smart Watches </li>"
+        +"<li> Books </li>"
+        + "<li> Electronic </li>"
+        + "<li> Tv </li>"
         + "</ol>"
     );
 });
